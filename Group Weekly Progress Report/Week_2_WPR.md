@@ -13,11 +13,8 @@
 | **Student Name**  | **Time Spent (hrs)** | **Tasks Completed** | **Challenges Faced** |
 |-------------------|-------------------|------------------|-----------------|
 | Josh Dennis | 6 hours | Extracted Gender Studies data, created questions for dataset, participated in ERD creation | Understanding series within dataset for question formation |
-|-------------------|-------------------|------------------|-----------------|
 | Kanak Sharma | 6 hrs |Extracted Jobs data, Chose required series, Drafted research questions, Assisted in formation of the ER model | Learning the necessary processed to navigate the World Bank datadases and understand the series contained. | 
-|-------------------|-------------------|------------------|-----------------|
 | Denise Becerra | 5 hours | Participated in ERD Model Creation,Wrote ERD Model Description, Complied Research Questions, Indicators, and ERD Model Model Description into one doc for GitHub| Understanding/ Describing relationships with Entities and Associative Entities|
-|-------------------|-------------------|------------------|-----------------|
 | Krish Viswanadhan Nair | 5.8 hrs |Extracted Education Policy data, Selected the series required, Created research questions, Participated in ER model creation | Challenge was navigating the world bank db and picking the series that work best with the indicators chosen |
 
 ---
