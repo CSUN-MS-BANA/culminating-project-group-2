@@ -1,12 +1,15 @@
 Step 4: Select 60+ Research Questions based on the selected 3 Indicators
+
+# Research Questions 
+
 We have selected the research questions based on each Indicator.
 
-How does the Characteristics of Bureaucracy average score for merit correlate with the average literacy and numeracy scores of 1st graders?
-Can the average developmental scores of female 1st graders predict their literacy and numeracy scores?
-What is the relationship between the average number of classroom inputs and the developmental scores of 1st graders?
-Does the average number of training principals report receiving influence the literacy proficiency of students?
-How does the percent of time spent inside classrooms during principal training affect student socioemotional scores?
-What is the impact of the percent of teachers proficient in the subjects they teach on the literacy and numeracy proficiency of 10-year-old children
+1) How does the Characteristics of Bureaucracy average score for merit correlate with the average literacy and numeracy scores of 1st graders?  
+2) Can the average developmental scores of female 1st graders predict their literacy and numeracy scores?   
+3) What is the relationship between the average number of classroom inputs and the developmental scores of 1st graders?  
+4) Does the average number of training principals report receiving influence the literacy proficiency of students?  
+5) How does the percent of time spent inside classrooms during principal training affect student socioemotional scores?
+6) What is the impact of the percent of teachers proficient in the subjects they teach on the literacy and numeracy proficiency of 10-year-old children
 Do schools with access to electricity have better student developmental and socioemotional scores?
 How does the availability of school inputs (overall, male, and female) predict the average numeracy and literacy scores of 1st graders?
 Is there a significant relationship between the extent to which principals master managerial skills and the quality of applicants accepted into initial education programs?
