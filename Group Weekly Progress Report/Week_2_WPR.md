@@ -21,20 +21,14 @@
 
 ## 3. Key Achievements for the Week
 📌 3 datasets evaluated to study education, employeement, and gender equality  
-
 📌 Potential research questions formed to evaluate gainable knowledge for datasets  
-
 📌 Initial ERD created to explore potential entities, attributes and relationships 
 
 ---
 
 ## 4. Pending Tasks for Next Week
 📌 Ensure all technology connections and repositories are functioning correctly  
-
 📌 Pending tasks as assigned by professor 
-
- ________________________________________________________  
-
 ---
 
 ## 5. GitHub Submission Details
@@ -49,6 +43,6 @@
 ---
 
 ### Submission Instructions
-1. Complete this progress report weekly.
-2. Upload it to your **GitHub repository** along with your project files.
-3. Keep track of contributions to maintain transparency.
+1. Completed this progress report weekly.
+2. Upload it to our **GitHub repository** along with our project files.
+3. Keeping track of contributions to maintain transparency.
