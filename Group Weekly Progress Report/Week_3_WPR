@@ -1,0 +1,54 @@
+# Group Weekly Progress Report
+
+**Master's in Business Analytics – Culminating Project**  
+**Group Name:** Group 2 
+**Week of:** 2/10- 2/16 
+
+## 1. Group Lead for the Week
+📌 **Lead Member Name:** Denise Becerra 
+
+---
+
+## 2. Individual Contributions
+| **Student Name**  | **Time Spent (hrs)** | **Tasks Completed** | **Challenges Faced** |
+|-------------------|-------------------|------------------|-----------------|
+| Josh Dennis | 11.5 hrs | Data Extraction, Database Formation, ERD Creation | Becoming comfortable with new RDBMS, understanding data, considering the optimal formation of database |
+| Kanak Sharma | 11.5 hrs | Data Extraction, Database Formation, Importing data into database, Mapping QSPD to create entity and attributes to form table, Maintainging Github Directory | Selecting series to map with Public Debt Indicators, Understanding datarelationship netween entities | 
+| Denise Becerra | 9 hrs | Data Extraction of Enviormental and Economic, Creation and formating of Data Dictionary, Completion of Weekly Progress Report| Learning Github to push Weekly Progress Report, Understanding how to extract data from world database in appropriate format|
+| Krish Viswanadhan Nair | 13.5 hrs |Data Extraction, Data Formation, Defining Database entities and attributes, Participation in ER, Creation of Frustration Report | Selecting economic, social, and enviormental series to map with WDI, picling the appropriate format to extract data, identifying Statistical Indicators Table (Money Supply M2), Exchange Rates) from Statisitcal Indicators database |
+
+---
+
+## 3. Key Achievements for the Week
+📌 3 datasets evaluated to study Economic, Enviormental, and Statistical data 
+
+📌 Creation of Database for future work  
+
+📌 Initial ERD created to explore potential entities, attributes and relationships 
+
+---
+
+## 4. Pending Tasks for Next Week
+📌 Ensure all technology connections and repositories are functioning correctly  
+
+📌 Pending tasks as assigned by professor 
+
+ ________________________________________________________  
+
+---
+
+## 5. GitHub Submission Details
+🔗 **GitHub Repository Link:** https://github.com/CSUN-MS-BANA/culminating-project-group-2  
+
+📁 **Files Updated/Added:**  
+- Database Entity & Attribute Indicator PDF 
+- Public Debt Formatting Code.ipynb 
+- Quarterly Public Sector Debt Code.ipynb
+- Week 3 ERD.png
+- Frustration Report  PDF
+---
+
+### Submission Instructions
+1. Complete this progress report weekly.
+2. Upload it to your **GitHub repository** along with your project files.
+3. Keep track of contributions to maintain transparency.
