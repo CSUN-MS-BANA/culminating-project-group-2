@@ -1,7 +1,7 @@
 # Group Weekly Progress Report
 
 **Master's in Business Analytics – Culminating Project**  
-**Group Name:** Group 2 **Week of:** 2/10- 2/16
+**Group Name:** Group 2 **Week of:** 2/17- 2/24
 
 ## 1\. Group Lead for the Week
 
