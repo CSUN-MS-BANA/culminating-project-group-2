@@ -33,9 +33,9 @@
 
 ## 4\. Pending Tasks for Next Week
 
-📌 Ensure all technology connections and repositories are functioning correctly    
-📌 Pending tasks as assigned by professor   
-📌 work on Research Questions & Analysis Methods  
+📌 Ensure all technology connections and repositories are functioning correctly.   
+📌 Pending tasks as assigned by professor.   
+📌 Work on Research Questions & Analysis Methods. 
 
 
 ---
