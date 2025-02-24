@@ -23,7 +23,7 @@
 
 ## 3\. Key Achievements for the Week
 
-📌 Data cleaning for Economic, Environmental, Statistical data and Public Debt Indicators.
+📌 Data cleaning for Economic, Environmental, Statistical, Social and Public Debt Indicators.
 
 📌 Handle missing values and Standardize numerical values where necessary.
 
