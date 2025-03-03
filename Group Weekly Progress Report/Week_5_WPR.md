@@ -46,9 +46,8 @@
 
 📁 **Files Updated/Added:**
 
-- Josh_Stat_Ind_Cleaned.ipynb   
-- Kanak_EDA.ipynb
-- Krish_Environmental_ind_cleaned.ipynb 
+- Vishnu_research questions   
+   
 
 
 ---
