@@ -800,30 +800,11 @@ World,WLD,2023,YR2023,..,..,..,..,..,..
 ,,,,,,,,,
 ,,,,,,,,,
 ,,,,,,,,,
-Data from database: World Development Indicators,,,,,,,,,
-Last Updated: 01/28/2025,,,,,,,,,
-Code,License Type,Indicator Name,Long definition,Source,Topic,Periodicity,Base Period,Aggregation method,Statistical concept and methodology
-NY.ADJ.NNTY.KD.ZG,CC BY-4.0,Adjusted net national income (annual % growth),Adjusted net national income is GNI minus consumption of fixed capital and natural resources depletion.,World Bank staff estimates based on sources and methods in World Bank's The Changing Wealth of Nations: Measuring Sustainable Development in the New Millennium (2011).,Economic Policy & Debt: National accounts: Adjusted savings & income,Annual,,Weighted average,"Adjusted net national income complements gross national income (GNI) in assessing economic progress (Hamilton and Ley 2010) by providing a broader measure of national income that accounts for the depletion of natural resources.
-
-Adjusted net national income is calculated by subtracting from GNI a charge for the consumption of fixed capital (a calculation that yields net national income) and for the depletion of natural resources. The deduction for the depletion of natural resources, which covers net forest depletion, energy depletion, and mineral depletion, reflects the decline in asset values associated with the extraction and harvesting of natural resources. This is analogous to depreciation of fixed assets.
-
-Growth rates of adjusted net national income are computed from constant price series deflated using the gross national expenditure (formerly domestic absorption) deflator."
-NY.ADJ.NNTY.KD,CC BY-4.0,Adjusted net national income (constant 2015 US$),Adjusted net national income is GNI minus consumption of fixed capital and natural resources depletion.,World Bank staff estimates based on sources and methods in World Bank's The Changing Wealth of Nations: Measuring Sustainable Development in the New Millennium (2011).,Economic Policy & Debt: National accounts: Adjusted savings & income,Annual,2015,Gap-filled total,"Adjusted net national income complements gross national income (GNI) in assessing economic progress (Hamilton and Ley 2010) by providing a broader measure of national income that accounts for the depletion of natural resources.
-
-Adjusted net national income is calculated by subtracting from GNI a charge for the consumption of fixed capital (a calculation that yields net national income) and for the depletion of natural resources. The deduction for the depletion of natural resources, which covers net forest depletion, energy depletion, and mineral depletion, reflects the decline in asset values associated with the extraction and harvesting of natural resources. This is analogous to depreciation of fixed assets.
-
-Growth rates of adjusted net national income are computed from constant price series deflated using the gross national expenditure (formerly domestic absorption) deflator."
-NY.ADJ.NNTY.CD,CC BY-4.0,Adjusted net national income (current US$),Adjusted net national income is GNI minus consumption of fixed capital and natural resources depletion.,World Bank staff estimates based on sources and methods in World Bank's The Changing Wealth of Nations: Measuring Sustainable Development in the New Millennium (2011).,Economic Policy & Debt: National accounts: Adjusted savings & income,Annual,,Gap-filled total,"Adjusted net national income complements gross national income (GNI) in assessing economic progress (Hamilton and Ley 2010) by providing a broader measure of national income that accounts for the depletion of natural resources.
-
-Adjusted net national income is calculated by subtracting from GNI a charge for the consumption of fixed capital (a calculation that yields net national income) and for the depletion of natural resources. The deduction for the depletion of natural resources, which covers net forest depletion, energy depletion, and mineral depletion, reflects the decline in asset values associated with the extraction and harvesting of natural resources. This is analogous to depreciation of fixed assets."
-NY.ADJ.NNTY.PC.KD.ZG,CC BY-4.0,Adjusted net national income per capita (annual % growth),Adjusted net national income is GNI minus consumption of fixed capital and natural resources depletion.,World Bank staff estimates based on sources and methods in World Bank's The Changing Wealth of Nations: Measuring Sustainable Development in the New Millennium (2011).,Economic Policy & Debt: National accounts: Adjusted savings & income,Annual,,Weighted average,"Adjusted net national income complements gross national income (GNI) in assessing economic progress (Hamilton and Ley 2010) by providing a broader measure of national income that accounts for the depletion of natural resources.
-
-Adjusted net national income is calculated by subtracting from GNI a charge for the consumption of fixed capital (a calculation that yields net national income) and for the depletion of natural resources. The deduction for the depletion of natural resources, which covers net forest depletion, energy depletion, and mineral depletion, reflects the decline in asset values associated with the extraction and harvesting of natural resources. This is analogous to depreciation of fixed assets.
-
-Growth rates of adjusted net national income are computed from constant price series deflated using the gross national expenditure (formerly domestic absorption) deflator."
-NY.ADJ.NNTY.PC.KD,CC BY-4.0,Adjusted net national income per capita (constant 2015 US$),Adjusted net national income is GNI minus consumption of fixed capital and natural resources depletion.,World Bank staff estimates based on sources and methods in World Bank's The Changing Wealth of Nations: Measuring Sustainable Development in the New Millennium (2011).,Economic Policy & Debt: National accounts: Adjusted savings & income,Annual,2015,Weighted average,"Adjusted net national income complements gross national income (GNI) in assessing economic progress (Hamilton and Ley 2010) by providing a broader measure of national income that accounts for the depletion of natural resources.
-
-Adjusted net national income is calculated by subtracting from GNI a charge for the consumption of fixed capital (a calculation that yields net national income) and for the depletion of natural resources. The deduction for the depletion of natural resources, which covers net forest depletion, energy depletion, and mineral depletion, reflects the decline in asset values associated with the extraction and harvesting of natural resources. This is analogous to depreciation of fixed assets.
-
-Growth rates of adjusted net national income are computed from constant price series deflated using the gross national expenditure (formerly domestic absorption) deflator."
-NY.ADJ.NNTY.PC.CD,CC BY-4.0,Adjusted net national income per capita (current US$),Adjusted net national income is GNI minus consumption of fixed capital and natural resources depletion.,World Bank staff estimates based on sources and methods in World Bank's The Changing Wealth of Nations: Measuring Sustainable Development in the New Millennium (2011).,Economic Policy & Debt: National accounts: Adjusted savings & income,Annual,,Weighted average,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,

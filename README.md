@@ -8,7 +8,8 @@ This project is the final group assignment where we apply our knowledge and skil
 Kanak Sharma |
 Josh Dennis |
 Krish V Nair |
-Denise Becerra
+Denise Becerra |
+Vishnu Tummala
 
 ## Tools: 
 1) Programming Languages: Python, SQL ||
