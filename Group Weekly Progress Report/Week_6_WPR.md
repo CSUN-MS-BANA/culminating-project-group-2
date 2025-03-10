@@ -34,7 +34,9 @@
 ## 4\. Pending Tasks for Next Week
 
 📌 Develope abstract of project. 
+
 📌 Begin refining questions for analysis.
+
 📌 Perfoming EDA and to decide on measures to take in order to fill out the gaps such as missing values, transformation, Standarization etc.
 
 
