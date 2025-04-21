@@ -3,6 +3,8 @@
 ## Project Overview: 
 Welcome to Culminating-Project-Group-2! 
 This project is the final group assignment where we apply our knowledge and skills to solve a real-world problem using data analytics, machine learning, and business intelligence techniques.
+Analyzed global energy trends using machine learning to explore the relationship between economic growth and environmental impact. 
+Applied clustering and classification models to identify patterns in renewable adoption and carbon emissions using World Bank data.
 
 ## Team Members: 
 Kanak Sharma |
