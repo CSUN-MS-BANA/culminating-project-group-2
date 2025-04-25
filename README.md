@@ -20,4 +20,4 @@ Vishnu Tummala
 4) Databases: MySQL, PostgreSQL, SQLLite3 ||
 5) Version Control: Git, GitHub
 
-[View Interactive Map](./choropleth_map.html)
+![Choropleth Map](./choropleth_map.png)
