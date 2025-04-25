@@ -19,3 +19,5 @@ Vishnu Tummala
 3) Machine Learning: Scikit-learn, TensorFlow, NLP Techniques, MLR, Logistics, TimeSeries||
 4) Databases: MySQL, PostgreSQL, SQLLite3 ||
 5) Version Control: Git, GitHub
+
+[View Interactive Map](./choropleth_map.html)
